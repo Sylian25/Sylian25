@@ -32,7 +32,7 @@ RepoDescriptionStacksql-rh-projectsRequêtes et analyses RH (turnover, anciennet
 🌍 Langues
 Français (natif) · Anglais B2 · Espagnol B2 · Kabyle C1
 
-📫 Me contacter## Hi there 👋
+📫 Me contacter 
 
 <!--
 **Sylian25/Sylian25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
