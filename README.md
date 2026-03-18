@@ -1,5 +1,7 @@
 Bonjour, je suis Sylian Aoudia 👋
-Data Analyst RH en alternance · BUT GEA GEMA · Paris
+
+Data Analyst RH en alternance chez BNP Paribas · BUT GEA chez Université Paris Cité · Paris, France
+
 Je construis des pipelines de données et des tableaux de bord orientés RH. Actuellement en alternance chez BNP Paribas IT Group, je travaille sur des projets d'analyse des compétences et de la démographie des développeurs à l'échelle mondiale.
 
 🔭 Ce sur quoi je travaille
@@ -9,6 +11,7 @@ Self-training roadmap — Parcours structuré : SQL → Python → Power BI → 
 
 
 🛠️ Stack technique
+
 Visualisation & BI
 Tableau Desktop Power BI Excel (VBA, Power Query)
 ETL & Data
@@ -19,6 +22,7 @@ Autres
 Google Workspace Microsoft Office Git
 
 📂 Projets à venir
+
 RepoDescriptionStacksql-rh-projectsRequêtes et analyses RH (turnover, ancienneté, effectifs)SQLpython-data-rhScripts d'analyse et nettoyage de données RHPython, Pandaspowerbi-dashboardsDashboards RH avec documentationPower BItableau-vizVisualisations interactivesTableaudata-analyst-roadmapJournal de progression et ressourcesMarkdown
 
 🎓 Parcours
@@ -30,6 +34,7 @@ RepoDescriptionStacksql-rh-projectsRequêtes et analyses RH (turnover, anciennet
 
 
 🌍 Langues
+
 Français (natif) · Anglais B2 · Espagnol B2 · Kabyle C1
 
 📫 Me contacter 
