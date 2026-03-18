@@ -33,7 +33,7 @@ RepoDescriptionStacksql-rh-projectsRequêtes et analyses RH (turnover, anciennet
 Français (natif) · Anglais B2 · Espagnol B2 · Kabyle C1
 
 📫 Me contacter 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylian_Aoudia-0077B5?style=flat&logo=linkedin)](linkedin.com/in/sylian-aoudia-867411298)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylian_Aoudia-0077B5?style=flat&logo=linkedin)](linkedin.com/in/sylian-aoudia-867411298)](https://www.linkedin.com/in/sylian-aoudia)
 ---
 *"Les données ne parlent pas d'elles-mêmes — c'est l'analyste qui leur donne du sens."*
 
